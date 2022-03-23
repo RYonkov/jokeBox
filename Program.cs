@@ -8,16 +8,7 @@ namespace ExercisingRegex
 {
     internal class Program
     {
-        static string ReversedString(string input)
-        {
-            string output = "";
-            for (int i = input.Length - 1; i >= 0; i--)
-            {
-                output += input[i];
-            }
-            return output;
-        }
-
+      
         static void Main(string[] args)
         {
             string input = Console.ReadLine();
@@ -77,6 +68,16 @@ namespace ExercisingRegex
             }
             output += $"{myList[myList.Count - 1]} <=> {myList[myList.Count - 2]}";
             Console.WriteLine(output);
+        }
+
+        static string ReversedString(string input)
+        {
+            string output = "";
+            for (int i = input.Length - 1; i >= 0; i--)
+            {
+                output += input[i];
+            }
+            return output;
         }
     }
 }

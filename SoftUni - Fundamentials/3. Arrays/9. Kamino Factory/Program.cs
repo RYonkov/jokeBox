@@ -1,46 +1,74 @@
 ﻿using System;
 using System.Linq;
 
-namespace P03.ZigZagArray
+namespace P9.KaminoFactory
 {
-    internal class Program
+    class Program
     {
         static void Main(string[] args)
         {
+            int winnerSequence = 0;
+            int winnerIndex = 0;
+            int winnerSum = 0;
+            int winnerSample = 0;
+            int sampleCount = 0;
+
+            string input;
+
             int n = int.Parse(Console.ReadLine());
+            int[] bestArray = new int[n];
 
-            //Zig zag filled arrays
-            int[] arr1 = new int[n];
-            int[] arr2 = new int[n];
-
-            for (int row = 1; row <= n; row++)
+            while ((input = Console.ReadLine()) != "Clone them!")
             {
-                int[] currentRowData = Console.ReadLine()
-                    .Split(' ', StringSplitOptions.RemoveEmptyEntries)
+                int[] dna = input
+                    .Split("!".ToCharArray(), StringSplitOptions.RemoveEmptyEntries)
                     .Select(int.Parse)
                     .ToArray();
 
-                int firstNumber = currentRowData[0];
-                int secondNumber = currentRowData[1];
+                sampleCount++;
 
-                if (row % 2 != 0)
+                int sum = 0;
+                int curStart = -1;
+                int curLength = 0;
+                int currentPositionMax = -1;
+                int currentLengthMax = 0;
+                for (int i = 0; i < dna.Length; i++)
                 {
-                    //Odd row
-                    arr1[row - 1] = firstNumber;
-                    arr2[row - 1] = secondNumber;
+                    if (dna[i] == 1)
+                    {
+                        if (curStart == -1)
+                        {
+                            curStart = i;
+                        }
+                        sum++;
+                        curLength++;
+                    }
+                    if (dna[i] == 0 || i == dna.Length - 1)
+                    {
+                        if (curLength > currentLengthMax)
+                        {
+                            currentLengthMax = curLength;
+                            currentPositionMax = curStart;
+                        }
+                        curLength = 0;
+                        curStart = -1;
+                    }
                 }
-                else
+
+                if (currentLengthMax > winnerSequence ||
+                    (currentLengthMax == winnerSequence && currentPositionMax < winnerIndex) ||
+                    (currentLengthMax == winnerSequence && currentPositionMax == winnerIndex && dna.Sum() > winnerSum))
                 {
-                    //Even row
-                    arr1[row - 1] = secondNumber;
-                    arr2[row - 1] = firstNumber;
+                    winnerSequence = currentLengthMax;
+                    winnerIndex = currentPositionMax;
+                    winnerSum = dna.Sum();
+                    bestArray = dna.ToArray();
+                    winnerSample = sampleCount;
                 }
             }
 
-            string s1 = String.Join(" ", arr1);
-
-            Console.WriteLine(String.Join(" ", arr1));
-            Console.WriteLine(String.Join(" ", arr2));
+            Console.WriteLine($"Best DNA sample {winnerSample} with sum: {winnerSum}.");
+            Console.WriteLine(string.Join(" ", bestArray));
         }
     }
 }

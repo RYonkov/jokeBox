@@ -1,0 +1,14 @@
+C:\8.GitHub\Pirates\Exercising\bin\Debug\netcoreapp3.1\Exercising.exe
+C:\8.GitHub\Pirates\Exercising\bin\Debug\netcoreapp3.1\Exercising.deps.json
+C:\8.GitHub\Pirates\Exercising\bin\Debug\netcoreapp3.1\Exercising.runtimeconfig.json
+C:\8.GitHub\Pirates\Exercising\bin\Debug\netcoreapp3.1\Exercising.runtimeconfig.dev.json
+C:\8.GitHub\Pirates\Exercising\bin\Debug\netcoreapp3.1\Exercising.dll
+C:\8.GitHub\Pirates\Exercising\bin\Debug\netcoreapp3.1\Exercising.pdb
+C:\8.GitHub\Pirates\Exercising\obj\Debug\netcoreapp3.1\Exercising.csproj.AssemblyReference.cache
+C:\8.GitHub\Pirates\Exercising\obj\Debug\netcoreapp3.1\Exercising.GeneratedMSBuildEditorConfig.editorconfig
+C:\8.GitHub\Pirates\Exercising\obj\Debug\netcoreapp3.1\Exercising.AssemblyInfoInputs.cache
+C:\8.GitHub\Pirates\Exercising\obj\Debug\netcoreapp3.1\Exercising.AssemblyInfo.cs
+C:\8.GitHub\Pirates\Exercising\obj\Debug\netcoreapp3.1\Exercising.csproj.CoreCompileInputs.cache
+C:\8.GitHub\Pirates\Exercising\obj\Debug\netcoreapp3.1\Exercising.dll
+C:\8.GitHub\Pirates\Exercising\obj\Debug\netcoreapp3.1\Exercising.pdb
+C:\8.GitHub\Pirates\Exercising\obj\Debug\netcoreapp3.1\Exercising.genruntimeconfig.cache

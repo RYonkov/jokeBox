@@ -1,0 +1,16 @@
+C:\Users\rados\source\repos\ExamPreparation\The Pianist\bin\Debug\net5.0\The Pianist.exe
+C:\Users\rados\source\repos\ExamPreparation\The Pianist\bin\Debug\net5.0\The Pianist.deps.json
+C:\Users\rados\source\repos\ExamPreparation\The Pianist\bin\Debug\net5.0\The Pianist.runtimeconfig.json
+C:\Users\rados\source\repos\ExamPreparation\The Pianist\bin\Debug\net5.0\The Pianist.runtimeconfig.dev.json
+C:\Users\rados\source\repos\ExamPreparation\The Pianist\bin\Debug\net5.0\The Pianist.dll
+C:\Users\rados\source\repos\ExamPreparation\The Pianist\bin\Debug\net5.0\The Pianist.pdb
+C:\Users\rados\source\repos\ExamPreparation\The Pianist\obj\Debug\net5.0\The Pianist.csproj.AssemblyReference.cache
+C:\Users\rados\source\repos\ExamPreparation\The Pianist\obj\Debug\net5.0\The Pianist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rados\source\repos\ExamPreparation\The Pianist\obj\Debug\net5.0\The Pianist.AssemblyInfoInputs.cache
+C:\Users\rados\source\repos\ExamPreparation\The Pianist\obj\Debug\net5.0\The Pianist.AssemblyInfo.cs
+C:\Users\rados\source\repos\ExamPreparation\The Pianist\obj\Debug\net5.0\The Pianist.csproj.CoreCompileInputs.cache
+C:\Users\rados\source\repos\ExamPreparation\The Pianist\obj\Debug\net5.0\The Pianist.dll
+C:\Users\rados\source\repos\ExamPreparation\The Pianist\obj\Debug\net5.0\refint\The Pianist.dll
+C:\Users\rados\source\repos\ExamPreparation\The Pianist\obj\Debug\net5.0\The Pianist.pdb
+C:\Users\rados\source\repos\ExamPreparation\The Pianist\obj\Debug\net5.0\The Pianist.genruntimeconfig.cache
+C:\Users\rados\source\repos\ExamPreparation\The Pianist\obj\Debug\net5.0\ref\The Pianist.dll

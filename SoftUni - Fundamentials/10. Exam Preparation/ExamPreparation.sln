@@ -3,9 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32319.34
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExamPreparation", "ExamPreparation\ExamPreparation.csproj", "{41C82901-6EBE-44F5-B782-E62C0A088B23}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "The Imitation Game", "ExamPreparation\The Imitation Game.csproj", "{41C82901-6EBE-44F5-B782-E62C0A088B23}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ad Astra", "Ad Astra\Ad Astra.csproj", "{E036542A-25F8-4017-8515-337E83BB7267}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ad Astra", "Ad Astra\Ad Astra.csproj", "{E036542A-25F8-4017-8515-337E83BB7267}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The Pianist", "The Pianist\The Pianist.csproj", "{E11918CD-5BAF-491E-B95D-799F6A6C44AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Password Reset", "Password Reset\Password Reset.csproj", "{A930AF91-CD83-437D-BC22-4E88C376CE95}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "World Tour", "World Tour\World Tour.csproj", "{5F9836FC-CE6A-4ED1-9BC1-F7F91AB1B1E3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +27,18 @@ Global
 		{E036542A-25F8-4017-8515-337E83BB7267}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E036542A-25F8-4017-8515-337E83BB7267}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E036542A-25F8-4017-8515-337E83BB7267}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E11918CD-5BAF-491E-B95D-799F6A6C44AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E11918CD-5BAF-491E-B95D-799F6A6C44AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E11918CD-5BAF-491E-B95D-799F6A6C44AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E11918CD-5BAF-491E-B95D-799F6A6C44AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A930AF91-CD83-437D-BC22-4E88C376CE95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A930AF91-CD83-437D-BC22-4E88C376CE95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A930AF91-CD83-437D-BC22-4E88C376CE95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A930AF91-CD83-437D-BC22-4E88C376CE95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F9836FC-CE6A-4ED1-9BC1-F7F91AB1B1E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F9836FC-CE6A-4ED1-9BC1-F7F91AB1B1E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F9836FC-CE6A-4ED1-9BC1-F7F91AB1B1E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F9836FC-CE6A-4ED1-9BC1-F7F91AB1B1E3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

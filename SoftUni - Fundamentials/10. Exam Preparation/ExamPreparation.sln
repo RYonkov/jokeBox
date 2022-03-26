@@ -7,13 +7,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "The Imitation Game", "ExamP
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ad Astra", "Ad Astra\Ad Astra.csproj", "{E036542A-25F8-4017-8515-337E83BB7267}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The Pianist", "The Pianist\The Pianist.csproj", "{E11918CD-5BAF-491E-B95D-799F6A6C44AF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "The Pianist", "The Pianist\The Pianist.csproj", "{E11918CD-5BAF-491E-B95D-799F6A6C44AF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Password Reset", "Password Reset\Password Reset.csproj", "{A930AF91-CD83-437D-BC22-4E88C376CE95}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Password Reset", "Password Reset\Password Reset.csproj", "{A930AF91-CD83-437D-BC22-4E88C376CE95}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "World Tour", "World Tour\World Tour.csproj", "{5F9836FC-CE6A-4ED1-9BC1-F7F91AB1B1E3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "World Tour", "World Tour\World Tour.csproj", "{5F9836FC-CE6A-4ED1-9BC1-F7F91AB1B1E3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Activation Keys", "Activation Keys\Activation Keys.csproj", "{A901D59E-E67B-4113-84D0-D49050D57060}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Activation Keys", "Activation Keys\Activation Keys.csproj", "{A901D59E-E67B-4113-84D0-D49050D57060}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Secret Chat", "Secret Chat\Secret Chat.csproj", "{2628A865-D074-4367-A840-7F0A526A706E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{A901D59E-E67B-4113-84D0-D49050D57060}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A901D59E-E67B-4113-84D0-D49050D57060}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A901D59E-E67B-4113-84D0-D49050D57060}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2628A865-D074-4367-A840-7F0A526A706E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2628A865-D074-4367-A840-7F0A526A706E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2628A865-D074-4367-A840-7F0A526A706E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2628A865-D074-4367-A840-7F0A526A706E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

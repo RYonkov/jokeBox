@@ -17,6 +17,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Activation Keys", "Activati
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Secret Chat", "Secret Chat\Secret Chat.csproj", "{2628A865-D074-4367-A840-7F0A526A706E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Destination Mapper", "Destination Mapper\Destination Mapper.csproj", "{16A085D2-1E72-4EFD-8904-932E97BAFE79}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{2628A865-D074-4367-A840-7F0A526A706E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2628A865-D074-4367-A840-7F0A526A706E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2628A865-D074-4367-A840-7F0A526A706E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16A085D2-1E72-4EFD-8904-932E97BAFE79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16A085D2-1E72-4EFD-8904-932E97BAFE79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16A085D2-1E72-4EFD-8904-932E97BAFE79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16A085D2-1E72-4EFD-8904-932E97BAFE79}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

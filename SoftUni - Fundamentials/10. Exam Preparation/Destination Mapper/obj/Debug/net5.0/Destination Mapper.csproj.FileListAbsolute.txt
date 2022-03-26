@@ -1,0 +1,16 @@
+C:\Users\rados\source\repos\ExamPreparation\Destination Mapper\bin\Debug\net5.0\Destination Mapper.exe
+C:\Users\rados\source\repos\ExamPreparation\Destination Mapper\bin\Debug\net5.0\Destination Mapper.deps.json
+C:\Users\rados\source\repos\ExamPreparation\Destination Mapper\bin\Debug\net5.0\Destination Mapper.runtimeconfig.json
+C:\Users\rados\source\repos\ExamPreparation\Destination Mapper\bin\Debug\net5.0\Destination Mapper.runtimeconfig.dev.json
+C:\Users\rados\source\repos\ExamPreparation\Destination Mapper\bin\Debug\net5.0\Destination Mapper.dll
+C:\Users\rados\source\repos\ExamPreparation\Destination Mapper\bin\Debug\net5.0\Destination Mapper.pdb
+C:\Users\rados\source\repos\ExamPreparation\Destination Mapper\obj\Debug\net5.0\Destination Mapper.csproj.AssemblyReference.cache
+C:\Users\rados\source\repos\ExamPreparation\Destination Mapper\obj\Debug\net5.0\Destination Mapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rados\source\repos\ExamPreparation\Destination Mapper\obj\Debug\net5.0\Destination Mapper.AssemblyInfoInputs.cache
+C:\Users\rados\source\repos\ExamPreparation\Destination Mapper\obj\Debug\net5.0\Destination Mapper.AssemblyInfo.cs
+C:\Users\rados\source\repos\ExamPreparation\Destination Mapper\obj\Debug\net5.0\Destination Mapper.csproj.CoreCompileInputs.cache
+C:\Users\rados\source\repos\ExamPreparation\Destination Mapper\obj\Debug\net5.0\Destination Mapper.dll
+C:\Users\rados\source\repos\ExamPreparation\Destination Mapper\obj\Debug\net5.0\refint\Destination Mapper.dll
+C:\Users\rados\source\repos\ExamPreparation\Destination Mapper\obj\Debug\net5.0\Destination Mapper.pdb
+C:\Users\rados\source\repos\ExamPreparation\Destination Mapper\obj\Debug\net5.0\Destination Mapper.genruntimeconfig.cache
+C:\Users\rados\source\repos\ExamPreparation\Destination Mapper\obj\Debug\net5.0\ref\Destination Mapper.dll

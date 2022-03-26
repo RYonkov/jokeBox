@@ -1,0 +1,16 @@
+C:\Users\rados\source\repos\ExamPreparation\Activation Keys\bin\Debug\net5.0\Activation Keys.exe
+C:\Users\rados\source\repos\ExamPreparation\Activation Keys\bin\Debug\net5.0\Activation Keys.deps.json
+C:\Users\rados\source\repos\ExamPreparation\Activation Keys\bin\Debug\net5.0\Activation Keys.runtimeconfig.json
+C:\Users\rados\source\repos\ExamPreparation\Activation Keys\bin\Debug\net5.0\Activation Keys.runtimeconfig.dev.json
+C:\Users\rados\source\repos\ExamPreparation\Activation Keys\bin\Debug\net5.0\Activation Keys.dll
+C:\Users\rados\source\repos\ExamPreparation\Activation Keys\bin\Debug\net5.0\Activation Keys.pdb
+C:\Users\rados\source\repos\ExamPreparation\Activation Keys\obj\Debug\net5.0\Activation Keys.csproj.AssemblyReference.cache
+C:\Users\rados\source\repos\ExamPreparation\Activation Keys\obj\Debug\net5.0\Activation Keys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rados\source\repos\ExamPreparation\Activation Keys\obj\Debug\net5.0\Activation Keys.AssemblyInfoInputs.cache
+C:\Users\rados\source\repos\ExamPreparation\Activation Keys\obj\Debug\net5.0\Activation Keys.AssemblyInfo.cs
+C:\Users\rados\source\repos\ExamPreparation\Activation Keys\obj\Debug\net5.0\Activation Keys.csproj.CoreCompileInputs.cache
+C:\Users\rados\source\repos\ExamPreparation\Activation Keys\obj\Debug\net5.0\Activation Keys.dll
+C:\Users\rados\source\repos\ExamPreparation\Activation Keys\obj\Debug\net5.0\refint\Activation Keys.dll
+C:\Users\rados\source\repos\ExamPreparation\Activation Keys\obj\Debug\net5.0\Activation Keys.pdb
+C:\Users\rados\source\repos\ExamPreparation\Activation Keys\obj\Debug\net5.0\Activation Keys.genruntimeconfig.cache
+C:\Users\rados\source\repos\ExamPreparation\Activation Keys\obj\Debug\net5.0\ref\Activation Keys.dll

@@ -1,0 +1,16 @@
+C:\Users\rados\source\repos\ExamPreparation\Fancy Barcodes\bin\Debug\net5.0\Fancy Barcodes.exe
+C:\Users\rados\source\repos\ExamPreparation\Fancy Barcodes\bin\Debug\net5.0\Fancy Barcodes.deps.json
+C:\Users\rados\source\repos\ExamPreparation\Fancy Barcodes\bin\Debug\net5.0\Fancy Barcodes.runtimeconfig.json
+C:\Users\rados\source\repos\ExamPreparation\Fancy Barcodes\bin\Debug\net5.0\Fancy Barcodes.runtimeconfig.dev.json
+C:\Users\rados\source\repos\ExamPreparation\Fancy Barcodes\bin\Debug\net5.0\Fancy Barcodes.dll
+C:\Users\rados\source\repos\ExamPreparation\Fancy Barcodes\bin\Debug\net5.0\Fancy Barcodes.pdb
+C:\Users\rados\source\repos\ExamPreparation\Fancy Barcodes\obj\Debug\net5.0\Fancy Barcodes.csproj.AssemblyReference.cache
+C:\Users\rados\source\repos\ExamPreparation\Fancy Barcodes\obj\Debug\net5.0\Fancy Barcodes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rados\source\repos\ExamPreparation\Fancy Barcodes\obj\Debug\net5.0\Fancy Barcodes.AssemblyInfoInputs.cache
+C:\Users\rados\source\repos\ExamPreparation\Fancy Barcodes\obj\Debug\net5.0\Fancy Barcodes.AssemblyInfo.cs
+C:\Users\rados\source\repos\ExamPreparation\Fancy Barcodes\obj\Debug\net5.0\Fancy Barcodes.csproj.CoreCompileInputs.cache
+C:\Users\rados\source\repos\ExamPreparation\Fancy Barcodes\obj\Debug\net5.0\Fancy Barcodes.dll
+C:\Users\rados\source\repos\ExamPreparation\Fancy Barcodes\obj\Debug\net5.0\refint\Fancy Barcodes.dll
+C:\Users\rados\source\repos\ExamPreparation\Fancy Barcodes\obj\Debug\net5.0\Fancy Barcodes.pdb
+C:\Users\rados\source\repos\ExamPreparation\Fancy Barcodes\obj\Debug\net5.0\Fancy Barcodes.genruntimeconfig.cache
+C:\Users\rados\source\repos\ExamPreparation\Fancy Barcodes\obj\Debug\net5.0\ref\Fancy Barcodes.dll

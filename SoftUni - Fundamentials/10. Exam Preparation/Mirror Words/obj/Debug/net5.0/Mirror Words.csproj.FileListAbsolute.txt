@@ -1,0 +1,16 @@
+C:\Users\rados\source\repos\ExamPreparation\Mirror Words\bin\Debug\net5.0\Mirror Words.exe
+C:\Users\rados\source\repos\ExamPreparation\Mirror Words\bin\Debug\net5.0\Mirror Words.deps.json
+C:\Users\rados\source\repos\ExamPreparation\Mirror Words\bin\Debug\net5.0\Mirror Words.runtimeconfig.json
+C:\Users\rados\source\repos\ExamPreparation\Mirror Words\bin\Debug\net5.0\Mirror Words.runtimeconfig.dev.json
+C:\Users\rados\source\repos\ExamPreparation\Mirror Words\bin\Debug\net5.0\Mirror Words.dll
+C:\Users\rados\source\repos\ExamPreparation\Mirror Words\bin\Debug\net5.0\Mirror Words.pdb
+C:\Users\rados\source\repos\ExamPreparation\Mirror Words\obj\Debug\net5.0\Mirror Words.csproj.AssemblyReference.cache
+C:\Users\rados\source\repos\ExamPreparation\Mirror Words\obj\Debug\net5.0\Mirror Words.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rados\source\repos\ExamPreparation\Mirror Words\obj\Debug\net5.0\Mirror Words.AssemblyInfoInputs.cache
+C:\Users\rados\source\repos\ExamPreparation\Mirror Words\obj\Debug\net5.0\Mirror Words.AssemblyInfo.cs
+C:\Users\rados\source\repos\ExamPreparation\Mirror Words\obj\Debug\net5.0\Mirror Words.csproj.CoreCompileInputs.cache
+C:\Users\rados\source\repos\ExamPreparation\Mirror Words\obj\Debug\net5.0\Mirror Words.dll
+C:\Users\rados\source\repos\ExamPreparation\Mirror Words\obj\Debug\net5.0\refint\Mirror Words.dll
+C:\Users\rados\source\repos\ExamPreparation\Mirror Words\obj\Debug\net5.0\Mirror Words.pdb
+C:\Users\rados\source\repos\ExamPreparation\Mirror Words\obj\Debug\net5.0\Mirror Words.genruntimeconfig.cache
+C:\Users\rados\source\repos\ExamPreparation\Mirror Words\obj\Debug\net5.0\ref\Mirror Words.dll

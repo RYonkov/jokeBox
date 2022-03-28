@@ -29,7 +29,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mirror Words", "Mirror Word
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Need for Speed III", "Need for Speed III\Need for Speed III.csproj", "{1A0479DC-7A76-4A54-820B-5831236B1378}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P!rates", "P!rates\P!rates.csproj", "{B67849A2-6369-404E-ADD3-211BD8ED2D71}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P!rates", "P!rates\P!rates.csproj", "{B67849A2-6369-404E-ADD3-211BD8ED2D71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Heroes of Code and Logic VII", "Heroes of Code and Logic VII\Heroes of Code and Logic VII.csproj", "{6972AA39-4C17-4548-B18E-7DB1E39E00BA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +95,10 @@ Global
 		{B67849A2-6369-404E-ADD3-211BD8ED2D71}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B67849A2-6369-404E-ADD3-211BD8ED2D71}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B67849A2-6369-404E-ADD3-211BD8ED2D71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6972AA39-4C17-4548-B18E-7DB1E39E00BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6972AA39-4C17-4548-B18E-7DB1E39E00BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6972AA39-4C17-4548-B18E-7DB1E39E00BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6972AA39-4C17-4548-B18E-7DB1E39E00BA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

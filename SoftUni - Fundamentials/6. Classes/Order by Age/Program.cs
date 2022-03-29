@@ -10,14 +10,7 @@ using System.Globalization;                 //For regional specifics
 
 namespace OrderByAge
 
-{
-    class Vehicle
-    {
-        public string Type { get; set; }
-        public string Model { get; set; }
-        public string Color { get; set; }
-        public int HP { get; set; }
-    }
+{    
     class Person
     {
         public Person(string name, int age)
@@ -33,8 +26,7 @@ namespace OrderByAge
     {
         static void Main(string[] args)
         {
-            string input = Console.ReadLine();
-            //List<Person> persons = new List<Person>();
+            string input = Console.ReadLine();            
             Dictionary<int, Person> persons = new Dictionary<int, Person>();
 
             while (input != "End")
@@ -55,14 +47,10 @@ namespace OrderByAge
                 }
                 input = Console.ReadLine(); 
             }
-
-            var persons2 = persons.OrderBy(x=>x.Value.Age).ToList();
-
-            foreach (var element in persons2)
+            foreach (var element in persons.OrderBy(x=>x.Value.Age))
             {
                 Console.WriteLine($"{element.Value.Name} with ID: {element.Key} is {element.Value.Age} years old.");
             }
         }
-
     }
 }

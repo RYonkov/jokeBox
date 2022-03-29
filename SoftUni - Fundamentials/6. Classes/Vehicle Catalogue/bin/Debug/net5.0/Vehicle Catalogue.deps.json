@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Vehicle Catalogue/1.0.0": {
+        "runtime": {
+          "Vehicle Catalogue.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Vehicle Catalogue/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

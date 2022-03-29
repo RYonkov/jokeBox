@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Teamwork Projects", "Exerci
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vehicle Catalogue", "Vehicle Catalogue\Vehicle Catalogue.csproj", "{B738A6F0-4AA3-420A-880F-FF03B25D8BD4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Order by Age", "Order by Age\Order by Age.csproj", "{5D82E47C-6CB0-4EA9-AE9C-0B96282E4C02}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{B738A6F0-4AA3-420A-880F-FF03B25D8BD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B738A6F0-4AA3-420A-880F-FF03B25D8BD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B738A6F0-4AA3-420A-880F-FF03B25D8BD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D82E47C-6CB0-4EA9-AE9C-0B96282E4C02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D82E47C-6CB0-4EA9-AE9C-0B96282E4C02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D82E47C-6CB0-4EA9-AE9C-0B96282E4C02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D82E47C-6CB0-4EA9-AE9C-0B96282E4C02}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

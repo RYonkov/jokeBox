@@ -1,0 +1,16 @@
+C:\Users\rados\source\repos\ExerciseClasses\Articles\bin\Debug\net5.0\Articles.exe
+C:\Users\rados\source\repos\ExerciseClasses\Articles\bin\Debug\net5.0\Articles.deps.json
+C:\Users\rados\source\repos\ExerciseClasses\Articles\bin\Debug\net5.0\Articles.runtimeconfig.json
+C:\Users\rados\source\repos\ExerciseClasses\Articles\bin\Debug\net5.0\Articles.runtimeconfig.dev.json
+C:\Users\rados\source\repos\ExerciseClasses\Articles\bin\Debug\net5.0\Articles.dll
+C:\Users\rados\source\repos\ExerciseClasses\Articles\bin\Debug\net5.0\Articles.pdb
+C:\Users\rados\source\repos\ExerciseClasses\Articles\obj\Debug\net5.0\Articles.csproj.AssemblyReference.cache
+C:\Users\rados\source\repos\ExerciseClasses\Articles\obj\Debug\net5.0\Articles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rados\source\repos\ExerciseClasses\Articles\obj\Debug\net5.0\Articles.AssemblyInfoInputs.cache
+C:\Users\rados\source\repos\ExerciseClasses\Articles\obj\Debug\net5.0\Articles.AssemblyInfo.cs
+C:\Users\rados\source\repos\ExerciseClasses\Articles\obj\Debug\net5.0\Articles.csproj.CoreCompileInputs.cache
+C:\Users\rados\source\repos\ExerciseClasses\Articles\obj\Debug\net5.0\Articles.dll
+C:\Users\rados\source\repos\ExerciseClasses\Articles\obj\Debug\net5.0\refint\Articles.dll
+C:\Users\rados\source\repos\ExerciseClasses\Articles\obj\Debug\net5.0\Articles.pdb
+C:\Users\rados\source\repos\ExerciseClasses\Articles\obj\Debug\net5.0\Articles.genruntimeconfig.cache
+C:\Users\rados\source\repos\ExerciseClasses\Articles\obj\Debug\net5.0\ref\Articles.dll

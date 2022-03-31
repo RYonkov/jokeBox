@@ -1,0 +1,14 @@
+C:\Users\rados\source\repos\ExerciseClasses\ExerciseClasses\bin\Debug\netcoreapp3.1\ExerciseClasses.exe
+C:\Users\rados\source\repos\ExerciseClasses\ExerciseClasses\bin\Debug\netcoreapp3.1\ExerciseClasses.deps.json
+C:\Users\rados\source\repos\ExerciseClasses\ExerciseClasses\bin\Debug\netcoreapp3.1\ExerciseClasses.runtimeconfig.json
+C:\Users\rados\source\repos\ExerciseClasses\ExerciseClasses\bin\Debug\netcoreapp3.1\ExerciseClasses.runtimeconfig.dev.json
+C:\Users\rados\source\repos\ExerciseClasses\ExerciseClasses\bin\Debug\netcoreapp3.1\ExerciseClasses.dll
+C:\Users\rados\source\repos\ExerciseClasses\ExerciseClasses\bin\Debug\netcoreapp3.1\ExerciseClasses.pdb
+C:\Users\rados\source\repos\ExerciseClasses\ExerciseClasses\obj\Debug\netcoreapp3.1\ExerciseClasses.csproj.AssemblyReference.cache
+C:\Users\rados\source\repos\ExerciseClasses\ExerciseClasses\obj\Debug\netcoreapp3.1\ExerciseClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rados\source\repos\ExerciseClasses\ExerciseClasses\obj\Debug\netcoreapp3.1\ExerciseClasses.AssemblyInfoInputs.cache
+C:\Users\rados\source\repos\ExerciseClasses\ExerciseClasses\obj\Debug\netcoreapp3.1\ExerciseClasses.AssemblyInfo.cs
+C:\Users\rados\source\repos\ExerciseClasses\ExerciseClasses\obj\Debug\netcoreapp3.1\ExerciseClasses.csproj.CoreCompileInputs.cache
+C:\Users\rados\source\repos\ExerciseClasses\ExerciseClasses\obj\Debug\netcoreapp3.1\ExerciseClasses.dll
+C:\Users\rados\source\repos\ExerciseClasses\ExerciseClasses\obj\Debug\netcoreapp3.1\ExerciseClasses.pdb
+C:\Users\rados\source\repos\ExerciseClasses\ExerciseClasses\obj\Debug\netcoreapp3.1\ExerciseClasses.genruntimeconfig.cache

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rados\\source\\repos\\ExerciseClasses\\Order by Age\\Order by Age.csproj": {}
+    "C:\\Users\\rados\\source\\repos\\ExercisingMethods\\ManipulatingArrays\\ManipulatingArrays.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rados\\source\\repos\\ExerciseClasses\\Order by Age\\Order by Age.csproj": {
+    "C:\\Users\\rados\\source\\repos\\ExercisingMethods\\ManipulatingArrays\\ManipulatingArrays.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rados\\source\\repos\\ExerciseClasses\\Order by Age\\Order by Age.csproj",
-        "projectName": "Order by Age",
-        "projectPath": "C:\\Users\\rados\\source\\repos\\ExerciseClasses\\Order by Age\\Order by Age.csproj",
+        "projectUniqueName": "C:\\Users\\rados\\source\\repos\\ExercisingMethods\\ManipulatingArrays\\ManipulatingArrays.csproj",
+        "projectName": "ManipulatingArrays",
+        "projectPath": "C:\\Users\\rados\\source\\repos\\ExercisingMethods\\ManipulatingArrays\\ManipulatingArrays.csproj",
         "packagesPath": "C:\\Users\\rados\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rados\\source\\repos\\ExerciseClasses\\Order by Age\\obj\\",
+        "outputPath": "C:\\Users\\rados\\source\\repos\\ExercisingMethods\\ManipulatingArrays\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rados\\AppData\\Roaming\\NuGet\\NuGet.Config",

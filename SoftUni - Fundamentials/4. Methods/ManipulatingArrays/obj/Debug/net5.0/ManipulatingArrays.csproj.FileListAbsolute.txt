@@ -1,0 +1,16 @@
+C:\Users\rados\source\repos\ExercisingMethods\ManipulatingArrays\bin\Debug\net5.0\ManipulatingArrays.exe
+C:\Users\rados\source\repos\ExercisingMethods\ManipulatingArrays\bin\Debug\net5.0\ManipulatingArrays.deps.json
+C:\Users\rados\source\repos\ExercisingMethods\ManipulatingArrays\bin\Debug\net5.0\ManipulatingArrays.runtimeconfig.json
+C:\Users\rados\source\repos\ExercisingMethods\ManipulatingArrays\bin\Debug\net5.0\ManipulatingArrays.runtimeconfig.dev.json
+C:\Users\rados\source\repos\ExercisingMethods\ManipulatingArrays\bin\Debug\net5.0\ManipulatingArrays.dll
+C:\Users\rados\source\repos\ExercisingMethods\ManipulatingArrays\bin\Debug\net5.0\ManipulatingArrays.pdb
+C:\Users\rados\source\repos\ExercisingMethods\ManipulatingArrays\obj\Debug\net5.0\ManipulatingArrays.csproj.AssemblyReference.cache
+C:\Users\rados\source\repos\ExercisingMethods\ManipulatingArrays\obj\Debug\net5.0\ManipulatingArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rados\source\repos\ExercisingMethods\ManipulatingArrays\obj\Debug\net5.0\ManipulatingArrays.AssemblyInfoInputs.cache
+C:\Users\rados\source\repos\ExercisingMethods\ManipulatingArrays\obj\Debug\net5.0\ManipulatingArrays.AssemblyInfo.cs
+C:\Users\rados\source\repos\ExercisingMethods\ManipulatingArrays\obj\Debug\net5.0\ManipulatingArrays.csproj.CoreCompileInputs.cache
+C:\Users\rados\source\repos\ExercisingMethods\ManipulatingArrays\obj\Debug\net5.0\ManipulatingArrays.dll
+C:\Users\rados\source\repos\ExercisingMethods\ManipulatingArrays\obj\Debug\net5.0\refint\ManipulatingArrays.dll
+C:\Users\rados\source\repos\ExercisingMethods\ManipulatingArrays\obj\Debug\net5.0\ManipulatingArrays.pdb
+C:\Users\rados\source\repos\ExercisingMethods\ManipulatingArrays\obj\Debug\net5.0\ManipulatingArrays.genruntimeconfig.cache
+C:\Users\rados\source\repos\ExercisingMethods\ManipulatingArrays\obj\Debug\net5.0\ref\ManipulatingArrays.dll

@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v5.0": {
-      "Order by Age/1.0.0": {
+      "ManipulatingArrays/1.0.0": {
         "runtime": {
-          "Order by Age.dll": {}
+          "ManipulatingArrays.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Order by Age/1.0.0": {
+    "ManipulatingArrays/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

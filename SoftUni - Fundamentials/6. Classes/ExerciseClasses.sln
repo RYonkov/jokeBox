@@ -9,9 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vehicle Catalogue", "Vehicl
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Order by Age", "Order by Age\Order by Age.csproj", "{5D82E47C-6CB0-4EA9-AE9C-0B96282E4C02}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Articles", "Articles\Articles.csproj", "{85E45A1A-65BE-4AA1-A4EB-74878C5924C3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Articles", "Articles\Articles.csproj", "{85E45A1A-65BE-4AA1-A4EB-74878C5924C3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Articles 2.0", "Articles 2.0\Articles 2.0.csproj", "{DB8F0B0C-F443-4152-AA38-B441909F01DA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Articles 2.0", "Articles 2.0\Articles 2.0.csproj", "{DB8F0B0C-F443-4152-AA38-B441909F01DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Advertisement Message", "Advertisement Message\Advertisement Message.csproj", "{B9DE79C0-B421-4D14-8D57-1C1A48C92C31}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{DB8F0B0C-F443-4152-AA38-B441909F01DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB8F0B0C-F443-4152-AA38-B441909F01DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB8F0B0C-F443-4152-AA38-B441909F01DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9DE79C0-B421-4D14-8D57-1C1A48C92C31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9DE79C0-B421-4D14-8D57-1C1A48C92C31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9DE79C0-B421-4D14-8D57-1C1A48C92C31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9DE79C0-B421-4D14-8D57-1C1A48C92C31}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

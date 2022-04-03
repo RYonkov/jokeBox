@@ -1,0 +1,16 @@
+C:\Users\rados\source\repos\ExamPreparation\Hero Recruitment\obj\Debug\net5.0\Hero Recruitment.csproj.AssemblyReference.cache
+C:\Users\rados\source\repos\ExamPreparation\Hero Recruitment\obj\Debug\net5.0\Hero Recruitment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rados\source\repos\ExamPreparation\Hero Recruitment\obj\Debug\net5.0\Hero Recruitment.AssemblyInfoInputs.cache
+C:\Users\rados\source\repos\ExamPreparation\Hero Recruitment\obj\Debug\net5.0\Hero Recruitment.AssemblyInfo.cs
+C:\Users\rados\source\repos\ExamPreparation\Hero Recruitment\obj\Debug\net5.0\Hero Recruitment.csproj.CoreCompileInputs.cache
+C:\Users\rados\source\repos\ExamPreparation\Hero Recruitment\bin\Debug\net5.0\Hero Recruitment.exe
+C:\Users\rados\source\repos\ExamPreparation\Hero Recruitment\bin\Debug\net5.0\Hero Recruitment.deps.json
+C:\Users\rados\source\repos\ExamPreparation\Hero Recruitment\bin\Debug\net5.0\Hero Recruitment.runtimeconfig.json
+C:\Users\rados\source\repos\ExamPreparation\Hero Recruitment\bin\Debug\net5.0\Hero Recruitment.runtimeconfig.dev.json
+C:\Users\rados\source\repos\ExamPreparation\Hero Recruitment\bin\Debug\net5.0\Hero Recruitment.dll
+C:\Users\rados\source\repos\ExamPreparation\Hero Recruitment\bin\Debug\net5.0\Hero Recruitment.pdb
+C:\Users\rados\source\repos\ExamPreparation\Hero Recruitment\obj\Debug\net5.0\Hero Recruitment.dll
+C:\Users\rados\source\repos\ExamPreparation\Hero Recruitment\obj\Debug\net5.0\refint\Hero Recruitment.dll
+C:\Users\rados\source\repos\ExamPreparation\Hero Recruitment\obj\Debug\net5.0\Hero Recruitment.pdb
+C:\Users\rados\source\repos\ExamPreparation\Hero Recruitment\obj\Debug\net5.0\Hero Recruitment.genruntimeconfig.cache
+C:\Users\rados\source\repos\ExamPreparation\Hero Recruitment\obj\Debug\net5.0\ref\Hero Recruitment.dll

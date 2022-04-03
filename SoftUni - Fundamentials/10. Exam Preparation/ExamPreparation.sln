@@ -31,7 +31,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Need for Speed III", "Need 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P!rates", "P!rates\P!rates.csproj", "{B67849A2-6369-404E-ADD3-211BD8ED2D71}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Heroes of Code and Logic VII", "Heroes of Code and Logic VII\Heroes of Code and Logic VII.csproj", "{6972AA39-4C17-4548-B18E-7DB1E39E00BA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Heroes of Code and Logic VII", "Heroes of Code and Logic VII\Heroes of Code and Logic VII.csproj", "{6972AA39-4C17-4548-B18E-7DB1E39E00BA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nether Realms", "Nether Realms\Nether Realms.csproj", "{D34632E1-02EE-4866-8A97-03AB1F86199C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Extract Emails", "Extract Emails\Extract Emails.csproj", "{40C91BA1-DFA4-43DC-B084-C3746D327449}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String Game", "String Game\String Game.csproj", "{3039FE3D-187C-4C4E-B69C-AEBC21DC37E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hero Recruitment", "Hero Recruitment\Hero Recruitment.csproj", "{462719F0-D0C9-4B3F-9B35-9347873E8E4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encrypting Password", "Encrypting Password\Encrypting Password.csproj", "{43663D22-31B9-4BE5-BD05-6BAB1AE0CE22}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +109,26 @@ Global
 		{6972AA39-4C17-4548-B18E-7DB1E39E00BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6972AA39-4C17-4548-B18E-7DB1E39E00BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6972AA39-4C17-4548-B18E-7DB1E39E00BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D34632E1-02EE-4866-8A97-03AB1F86199C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D34632E1-02EE-4866-8A97-03AB1F86199C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D34632E1-02EE-4866-8A97-03AB1F86199C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D34632E1-02EE-4866-8A97-03AB1F86199C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40C91BA1-DFA4-43DC-B084-C3746D327449}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40C91BA1-DFA4-43DC-B084-C3746D327449}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40C91BA1-DFA4-43DC-B084-C3746D327449}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40C91BA1-DFA4-43DC-B084-C3746D327449}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3039FE3D-187C-4C4E-B69C-AEBC21DC37E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3039FE3D-187C-4C4E-B69C-AEBC21DC37E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3039FE3D-187C-4C4E-B69C-AEBC21DC37E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3039FE3D-187C-4C4E-B69C-AEBC21DC37E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{462719F0-D0C9-4B3F-9B35-9347873E8E4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{462719F0-D0C9-4B3F-9B35-9347873E8E4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{462719F0-D0C9-4B3F-9B35-9347873E8E4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{462719F0-D0C9-4B3F-9B35-9347873E8E4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43663D22-31B9-4BE5-BD05-6BAB1AE0CE22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43663D22-31B9-4BE5-BD05-6BAB1AE0CE22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43663D22-31B9-4BE5-BD05-6BAB1AE0CE22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43663D22-31B9-4BE5-BD05-6BAB1AE0CE22}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

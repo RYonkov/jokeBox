@@ -1,0 +1,16 @@
+C:\Users\rados\source\repos\ExamPreparation\String Game\obj\Debug\net5.0\String Game.csproj.AssemblyReference.cache
+C:\Users\rados\source\repos\ExamPreparation\String Game\obj\Debug\net5.0\String Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rados\source\repos\ExamPreparation\String Game\obj\Debug\net5.0\String Game.AssemblyInfoInputs.cache
+C:\Users\rados\source\repos\ExamPreparation\String Game\obj\Debug\net5.0\String Game.AssemblyInfo.cs
+C:\Users\rados\source\repos\ExamPreparation\String Game\obj\Debug\net5.0\String Game.csproj.CoreCompileInputs.cache
+C:\Users\rados\source\repos\ExamPreparation\String Game\bin\Debug\net5.0\String Game.exe
+C:\Users\rados\source\repos\ExamPreparation\String Game\bin\Debug\net5.0\String Game.deps.json
+C:\Users\rados\source\repos\ExamPreparation\String Game\bin\Debug\net5.0\String Game.runtimeconfig.json
+C:\Users\rados\source\repos\ExamPreparation\String Game\bin\Debug\net5.0\String Game.runtimeconfig.dev.json
+C:\Users\rados\source\repos\ExamPreparation\String Game\bin\Debug\net5.0\String Game.dll
+C:\Users\rados\source\repos\ExamPreparation\String Game\bin\Debug\net5.0\String Game.pdb
+C:\Users\rados\source\repos\ExamPreparation\String Game\obj\Debug\net5.0\String Game.dll
+C:\Users\rados\source\repos\ExamPreparation\String Game\obj\Debug\net5.0\refint\String Game.dll
+C:\Users\rados\source\repos\ExamPreparation\String Game\obj\Debug\net5.0\String Game.pdb
+C:\Users\rados\source\repos\ExamPreparation\String Game\obj\Debug\net5.0\String Game.genruntimeconfig.cache
+C:\Users\rados\source\repos\ExamPreparation\String Game\obj\Debug\net5.0\ref\String Game.dll

@@ -1,0 +1,16 @@
+C:\Users\rados\source\repos\ExcercisingLists\Change List\bin\Debug\net5.0\Change List.exe
+C:\Users\rados\source\repos\ExcercisingLists\Change List\bin\Debug\net5.0\Change List.deps.json
+C:\Users\rados\source\repos\ExcercisingLists\Change List\bin\Debug\net5.0\Change List.runtimeconfig.json
+C:\Users\rados\source\repos\ExcercisingLists\Change List\bin\Debug\net5.0\Change List.runtimeconfig.dev.json
+C:\Users\rados\source\repos\ExcercisingLists\Change List\bin\Debug\net5.0\Change List.dll
+C:\Users\rados\source\repos\ExcercisingLists\Change List\bin\Debug\net5.0\Change List.pdb
+C:\Users\rados\source\repos\ExcercisingLists\Change List\obj\Debug\net5.0\Change List.csproj.AssemblyReference.cache
+C:\Users\rados\source\repos\ExcercisingLists\Change List\obj\Debug\net5.0\Change List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rados\source\repos\ExcercisingLists\Change List\obj\Debug\net5.0\Change List.AssemblyInfoInputs.cache
+C:\Users\rados\source\repos\ExcercisingLists\Change List\obj\Debug\net5.0\Change List.AssemblyInfo.cs
+C:\Users\rados\source\repos\ExcercisingLists\Change List\obj\Debug\net5.0\Change List.csproj.CoreCompileInputs.cache
+C:\Users\rados\source\repos\ExcercisingLists\Change List\obj\Debug\net5.0\Change List.dll
+C:\Users\rados\source\repos\ExcercisingLists\Change List\obj\Debug\net5.0\refint\Change List.dll
+C:\Users\rados\source\repos\ExcercisingLists\Change List\obj\Debug\net5.0\Change List.pdb
+C:\Users\rados\source\repos\ExcercisingLists\Change List\obj\Debug\net5.0\Change List.genruntimeconfig.cache
+C:\Users\rados\source\repos\ExcercisingLists\Change List\obj\Debug\net5.0\ref\Change List.dll

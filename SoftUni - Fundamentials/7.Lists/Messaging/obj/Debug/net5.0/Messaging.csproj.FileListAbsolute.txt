@@ -1,0 +1,16 @@
+C:\Users\rados\source\repos\ExcercisingLists\Messaging\bin\Debug\net5.0\Messaging.exe
+C:\Users\rados\source\repos\ExcercisingLists\Messaging\bin\Debug\net5.0\Messaging.deps.json
+C:\Users\rados\source\repos\ExcercisingLists\Messaging\bin\Debug\net5.0\Messaging.runtimeconfig.json
+C:\Users\rados\source\repos\ExcercisingLists\Messaging\bin\Debug\net5.0\Messaging.runtimeconfig.dev.json
+C:\Users\rados\source\repos\ExcercisingLists\Messaging\bin\Debug\net5.0\Messaging.dll
+C:\Users\rados\source\repos\ExcercisingLists\Messaging\bin\Debug\net5.0\Messaging.pdb
+C:\Users\rados\source\repos\ExcercisingLists\Messaging\obj\Debug\net5.0\Messaging.csproj.AssemblyReference.cache
+C:\Users\rados\source\repos\ExcercisingLists\Messaging\obj\Debug\net5.0\Messaging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rados\source\repos\ExcercisingLists\Messaging\obj\Debug\net5.0\Messaging.AssemblyInfoInputs.cache
+C:\Users\rados\source\repos\ExcercisingLists\Messaging\obj\Debug\net5.0\Messaging.AssemblyInfo.cs
+C:\Users\rados\source\repos\ExcercisingLists\Messaging\obj\Debug\net5.0\Messaging.csproj.CoreCompileInputs.cache
+C:\Users\rados\source\repos\ExcercisingLists\Messaging\obj\Debug\net5.0\Messaging.dll
+C:\Users\rados\source\repos\ExcercisingLists\Messaging\obj\Debug\net5.0\refint\Messaging.dll
+C:\Users\rados\source\repos\ExcercisingLists\Messaging\obj\Debug\net5.0\Messaging.pdb
+C:\Users\rados\source\repos\ExcercisingLists\Messaging\obj\Debug\net5.0\Messaging.genruntimeconfig.cache
+C:\Users\rados\source\repos\ExcercisingLists\Messaging\obj\Debug\net5.0\ref\Messaging.dll

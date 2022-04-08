@@ -1,0 +1,16 @@
+C:\Users\rados\source\repos\ExcercisingLists\Car Race\bin\Debug\net5.0\Car Race.exe
+C:\Users\rados\source\repos\ExcercisingLists\Car Race\bin\Debug\net5.0\Car Race.deps.json
+C:\Users\rados\source\repos\ExcercisingLists\Car Race\bin\Debug\net5.0\Car Race.runtimeconfig.json
+C:\Users\rados\source\repos\ExcercisingLists\Car Race\bin\Debug\net5.0\Car Race.runtimeconfig.dev.json
+C:\Users\rados\source\repos\ExcercisingLists\Car Race\bin\Debug\net5.0\Car Race.dll
+C:\Users\rados\source\repos\ExcercisingLists\Car Race\bin\Debug\net5.0\Car Race.pdb
+C:\Users\rados\source\repos\ExcercisingLists\Car Race\obj\Debug\net5.0\Car Race.csproj.AssemblyReference.cache
+C:\Users\rados\source\repos\ExcercisingLists\Car Race\obj\Debug\net5.0\Car Race.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rados\source\repos\ExcercisingLists\Car Race\obj\Debug\net5.0\Car Race.AssemblyInfoInputs.cache
+C:\Users\rados\source\repos\ExcercisingLists\Car Race\obj\Debug\net5.0\Car Race.AssemblyInfo.cs
+C:\Users\rados\source\repos\ExcercisingLists\Car Race\obj\Debug\net5.0\Car Race.csproj.CoreCompileInputs.cache
+C:\Users\rados\source\repos\ExcercisingLists\Car Race\obj\Debug\net5.0\Car Race.dll
+C:\Users\rados\source\repos\ExcercisingLists\Car Race\obj\Debug\net5.0\refint\Car Race.dll
+C:\Users\rados\source\repos\ExcercisingLists\Car Race\obj\Debug\net5.0\Car Race.pdb
+C:\Users\rados\source\repos\ExcercisingLists\Car Race\obj\Debug\net5.0\Car Race.genruntimeconfig.cache
+C:\Users\rados\source\repos\ExcercisingLists\Car Race\obj\Debug\net5.0\ref\Car Race.dll

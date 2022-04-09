@@ -19,7 +19,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Change List", "Change List\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Messaging", "Messaging\Messaging.csproj", "{611E49FB-CCB2-46E8-842F-9C2EC61D8715}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Car Race", "Car Race\Car Race.csproj", "{9A862630-7F7C-4EE1-9CCF-43DBBA741526}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Car Race", "Car Race\Car Race.csproj", "{9A862630-7F7C-4EE1-9CCF-43DBBA741526}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppendArrays", "AppendArrays\AppendArrays.csproj", "{EE90FF58-0834-4841-AE19-5E20EFE2CD90}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{9A862630-7F7C-4EE1-9CCF-43DBBA741526}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9A862630-7F7C-4EE1-9CCF-43DBBA741526}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9A862630-7F7C-4EE1-9CCF-43DBBA741526}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE90FF58-0834-4841-AE19-5E20EFE2CD90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE90FF58-0834-4841-AE19-5E20EFE2CD90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE90FF58-0834-4841-AE19-5E20EFE2CD90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE90FF58-0834-4841-AE19-5E20EFE2CD90}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

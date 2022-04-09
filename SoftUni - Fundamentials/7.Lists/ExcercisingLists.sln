@@ -21,7 +21,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Messaging", "Messaging\Mess
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Car Race", "Car Race\Car Race.csproj", "{9A862630-7F7C-4EE1-9CCF-43DBBA741526}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppendArrays", "AppendArrays\AppendArrays.csproj", "{EE90FF58-0834-4841-AE19-5E20EFE2CD90}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppendArrays", "AppendArrays\AppendArrays.csproj", "{EE90FF58-0834-4841-AE19-5E20EFE2CD90}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Take Skip Rope", "Take Skip Rope\Take Skip Rope.csproj", "{DC88E80F-0FED-4277-9408-63B54E86134A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mixed Up Lists", "Mixed Up Lists\Mixed Up Lists.csproj", "{F58C7082-F980-49B3-AA20-FA4478582874}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +73,14 @@ Global
 		{EE90FF58-0834-4841-AE19-5E20EFE2CD90}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EE90FF58-0834-4841-AE19-5E20EFE2CD90}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EE90FF58-0834-4841-AE19-5E20EFE2CD90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC88E80F-0FED-4277-9408-63B54E86134A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC88E80F-0FED-4277-9408-63B54E86134A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC88E80F-0FED-4277-9408-63B54E86134A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC88E80F-0FED-4277-9408-63B54E86134A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F58C7082-F980-49B3-AA20-FA4478582874}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F58C7082-F980-49B3-AA20-FA4478582874}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F58C7082-F980-49B3-AA20-FA4478582874}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F58C7082-F980-49B3-AA20-FA4478582874}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,16 @@
+C:\Users\rados\source\repos\Excercising Stacks and Queues\4. Matching Brackets\bin\Debug\net5.0\4. Matching Brackets.exe
+C:\Users\rados\source\repos\Excercising Stacks and Queues\4. Matching Brackets\bin\Debug\net5.0\4. Matching Brackets.deps.json
+C:\Users\rados\source\repos\Excercising Stacks and Queues\4. Matching Brackets\bin\Debug\net5.0\4. Matching Brackets.runtimeconfig.json
+C:\Users\rados\source\repos\Excercising Stacks and Queues\4. Matching Brackets\bin\Debug\net5.0\4. Matching Brackets.runtimeconfig.dev.json
+C:\Users\rados\source\repos\Excercising Stacks and Queues\4. Matching Brackets\bin\Debug\net5.0\4. Matching Brackets.dll
+C:\Users\rados\source\repos\Excercising Stacks and Queues\4. Matching Brackets\bin\Debug\net5.0\4. Matching Brackets.pdb
+C:\Users\rados\source\repos\Excercising Stacks and Queues\4. Matching Brackets\obj\Debug\net5.0\4. Matching Brackets.csproj.AssemblyReference.cache
+C:\Users\rados\source\repos\Excercising Stacks and Queues\4. Matching Brackets\obj\Debug\net5.0\4. Matching Brackets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rados\source\repos\Excercising Stacks and Queues\4. Matching Brackets\obj\Debug\net5.0\4. Matching Brackets.AssemblyInfoInputs.cache
+C:\Users\rados\source\repos\Excercising Stacks and Queues\4. Matching Brackets\obj\Debug\net5.0\4. Matching Brackets.AssemblyInfo.cs
+C:\Users\rados\source\repos\Excercising Stacks and Queues\4. Matching Brackets\obj\Debug\net5.0\4. Matching Brackets.csproj.CoreCompileInputs.cache
+C:\Users\rados\source\repos\Excercising Stacks and Queues\4. Matching Brackets\obj\Debug\net5.0\4. Matching Brackets.dll
+C:\Users\rados\source\repos\Excercising Stacks and Queues\4. Matching Brackets\obj\Debug\net5.0\refint\4. Matching Brackets.dll
+C:\Users\rados\source\repos\Excercising Stacks and Queues\4. Matching Brackets\obj\Debug\net5.0\4. Matching Brackets.pdb
+C:\Users\rados\source\repos\Excercising Stacks and Queues\4. Matching Brackets\obj\Debug\net5.0\4. Matching Brackets.genruntimeconfig.cache
+C:\Users\rados\source\repos\Excercising Stacks and Queues\4. Matching Brackets\obj\Debug\net5.0\ref\4. Matching Brackets.dll

@@ -17,11 +17,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "E3. Periodic Table", "E3. P
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "E4. Even Times", "E4. Even Times\E4. Even Times.csproj", "{B42F392D-39FF-4EC9-9691-3C0421520529}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E5. Count Symbols", "E5. Count Symbols\E5. Count Symbols.csproj", "{DBF28EC6-D25F-45A9-B429-C4C1C9CA8D36}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "E5. Count Symbols", "E5. Count Symbols\E5. Count Symbols.csproj", "{DBF28EC6-D25F-45A9-B429-C4C1C9CA8D36}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E6. Wardrobe", "E6. Wardrobe\E6. Wardrobe.csproj", "{3F9A772A-4EFB-4E1D-98F9-5BD3B00CA4E6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "E6. Wardrobe", "E6. Wardrobe\E6. Wardrobe.csproj", "{3F9A772A-4EFB-4E1D-98F9-5BD3B00CA4E6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E6. Wardrobe 2", "E6. Wardrobe 2\E6. Wardrobe 2.csproj", "{8B53C0B9-667A-4313-913C-D5B8827F2350}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "E6. Wardrobe 2", "E6. Wardrobe 2\E6. Wardrobe 2.csproj", "{8B53C0B9-667A-4313-913C-D5B8827F2350}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Count Same Values in Array", "1. Count Same Values in Array\1. Count Same Values in Array.csproj", "{8AACCFD7-8AF1-480A-B6C3-AD59BB78D98B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Average Student Grade", "2. Average Student Grade\2. Average Student Grade.csproj", "{673B5D60-23D8-4A9E-B429-A2CC1FC8763A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Largest 3 Numbers", "3. Largest 3 Numbers\3. Largest 3 Numbers.csproj", "{DBEE7888-AE50-47CD-9CD6-531DFAEE79A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. Product Shop", "4. Product Shop\4. Product Shop.csproj", "{A2420C22-CD60-4ED5-8578-55A6F1270588}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5. Cities by Continent and Country", "5. Cities by Continent and Country\5. Cities by Continent and Country.csproj", "{EC358792-5762-48C9-9D86-054BB4680412}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +79,26 @@ Global
 		{8B53C0B9-667A-4313-913C-D5B8827F2350}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8B53C0B9-667A-4313-913C-D5B8827F2350}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8B53C0B9-667A-4313-913C-D5B8827F2350}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AACCFD7-8AF1-480A-B6C3-AD59BB78D98B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AACCFD7-8AF1-480A-B6C3-AD59BB78D98B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AACCFD7-8AF1-480A-B6C3-AD59BB78D98B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AACCFD7-8AF1-480A-B6C3-AD59BB78D98B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{673B5D60-23D8-4A9E-B429-A2CC1FC8763A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{673B5D60-23D8-4A9E-B429-A2CC1FC8763A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{673B5D60-23D8-4A9E-B429-A2CC1FC8763A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{673B5D60-23D8-4A9E-B429-A2CC1FC8763A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBEE7888-AE50-47CD-9CD6-531DFAEE79A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBEE7888-AE50-47CD-9CD6-531DFAEE79A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBEE7888-AE50-47CD-9CD6-531DFAEE79A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBEE7888-AE50-47CD-9CD6-531DFAEE79A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2420C22-CD60-4ED5-8578-55A6F1270588}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2420C22-CD60-4ED5-8578-55A6F1270588}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2420C22-CD60-4ED5-8578-55A6F1270588}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2420C22-CD60-4ED5-8578-55A6F1270588}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC358792-5762-48C9-9D86-054BB4680412}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC358792-5762-48C9-9D86-054BB4680412}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC358792-5762-48C9-9D86-054BB4680412}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC358792-5762-48C9-9D86-054BB4680412}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

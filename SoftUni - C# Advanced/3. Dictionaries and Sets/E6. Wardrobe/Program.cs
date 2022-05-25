@@ -21,7 +21,7 @@ namespace E6._Wardrobe
             {
                 string input = Console.ReadLine();
                 //using Regex for taking the colour (group 1) and for taking the array of clothes (group 2)
-                string seekPattern = @"([A-Za-zА-Яа-я]+).?->.?([A-Za-zА-Яа-я,-]+)";
+                string seekPattern = @"([A-Za-zА-Яа-я]+).?->.?([A-Za-z|-А-Яа-я|,|-|\x20]+)";
 
                 MatchCollection matches = Regex.Matches(input, seekPattern);
                 foreach (Match match in matches)

@@ -23,15 +23,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "E6. Wardrobe", "E6. Wardrob
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "E6. Wardrobe 2", "E6. Wardrobe 2\E6. Wardrobe 2.csproj", "{8B53C0B9-667A-4313-913C-D5B8827F2350}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Count Same Values in Array", "1. Count Same Values in Array\1. Count Same Values in Array.csproj", "{8AACCFD7-8AF1-480A-B6C3-AD59BB78D98B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1. Count Same Values in Array", "1. Count Same Values in Array\1. Count Same Values in Array.csproj", "{8AACCFD7-8AF1-480A-B6C3-AD59BB78D98B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Average Student Grade", "2. Average Student Grade\2. Average Student Grade.csproj", "{673B5D60-23D8-4A9E-B429-A2CC1FC8763A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2. Average Student Grade", "2. Average Student Grade\2. Average Student Grade.csproj", "{673B5D60-23D8-4A9E-B429-A2CC1FC8763A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Largest 3 Numbers", "3. Largest 3 Numbers\3. Largest 3 Numbers.csproj", "{DBEE7888-AE50-47CD-9CD6-531DFAEE79A5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3. Largest 3 Numbers", "3. Largest 3 Numbers\3. Largest 3 Numbers.csproj", "{DBEE7888-AE50-47CD-9CD6-531DFAEE79A5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. Product Shop", "4. Product Shop\4. Product Shop.csproj", "{A2420C22-CD60-4ED5-8578-55A6F1270588}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4. Product Shop", "4. Product Shop\4. Product Shop.csproj", "{A2420C22-CD60-4ED5-8578-55A6F1270588}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5. Cities by Continent and Country", "5. Cities by Continent and Country\5. Cities by Continent and Country.csproj", "{EC358792-5762-48C9-9D86-054BB4680412}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5. Cities by Continent and Country", "5. Cities by Continent and Country\5. Cities by Continent and Country.csproj", "{EC358792-5762-48C9-9D86-054BB4680412}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "E7. The V-Logger", "E7. The V-Logger\E7. The V-Logger.csproj", "{B491ABF3-24A5-4893-996E-16044EB84AE5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E8. Ranking", "E8. Ranking\E8. Ranking.csproj", "{90721E7E-31F3-48C8-A78A-B16A90FAF809}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +103,14 @@ Global
 		{EC358792-5762-48C9-9D86-054BB4680412}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EC358792-5762-48C9-9D86-054BB4680412}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EC358792-5762-48C9-9D86-054BB4680412}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B491ABF3-24A5-4893-996E-16044EB84AE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B491ABF3-24A5-4893-996E-16044EB84AE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B491ABF3-24A5-4893-996E-16044EB84AE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B491ABF3-24A5-4893-996E-16044EB84AE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90721E7E-31F3-48C8-A78A-B16A90FAF809}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90721E7E-31F3-48C8-A78A-B16A90FAF809}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90721E7E-31F3-48C8-A78A-B16A90FAF809}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90721E7E-31F3-48C8-A78A-B16A90FAF809}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -7,13 +7,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.Meal Plan", "01.Meal Pla
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2. Beaver At Work", "2. Beaver At Work\2. Beaver At Work.csproj", "{DEF3E163-0115-4866-83DE-3DCA563EF43F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Blacksmith", "01. Blacksmith\01. Blacksmith.csproj", "{CCA1E6B2-0D52-4BEC-9D43-9AA1B612D2C4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Blacksmith", "01. Blacksmith\01. Blacksmith.csproj", "{CCA1E6B2-0D52-4BEC-9D43-9AA1B612D2C4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Bakery Shop", "01. Bakery Shop\01. Bakery Shop.csproj", "{DADAEE69-0CB0-47C6-BFCC-F52A76FF9E5F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Bakery Shop", "01. Bakery Shop\01. Bakery Shop.csproj", "{DADAEE69-0CB0-47C6-BFCC-F52A76FF9E5F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Useful Matrix", "Useful Matrix\Useful Matrix.csproj", "{D4ECAFDD-8BAB-4714-8871-1E523B607E25}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Useful Matrix", "Useful Matrix\Useful Matrix.csproj", "{D4ECAFDD-8BAB-4714-8871-1E523B607E25}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Truffle Hunter", "2. Truffle Hunter\2. Truffle Hunter.csproj", "{853A5A08-9CC0-495C-A22B-C6F5BC794681}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2. Truffle Hunter", "2. Truffle Hunter\2. Truffle Hunter.csproj", "{853A5A08-9CC0-495C-A22B-C6F5BC794681}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Food finder", "1. Food finder\1. Food finder.csproj", "{3EFA2B79-A10E-47F1-BAF5-F0946CB4FF38}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{853A5A08-9CC0-495C-A22B-C6F5BC794681}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{853A5A08-9CC0-495C-A22B-C6F5BC794681}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{853A5A08-9CC0-495C-A22B-C6F5BC794681}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EFA2B79-A10E-47F1-BAF5-F0946CB4FF38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EFA2B79-A10E-47F1-BAF5-F0946CB4FF38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EFA2B79-A10E-47F1-BAF5-F0946CB4FF38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EFA2B79-A10E-47F1-BAF5-F0946CB4FF38}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Useful Matrix", "Useful Mat
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2. Truffle Hunter", "2. Truffle Hunter\2. Truffle Hunter.csproj", "{853A5A08-9CC0-495C-A22B-C6F5BC794681}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Food finder", "1. Food finder\1. Food finder.csproj", "{3EFA2B79-A10E-47F1-BAF5-F0946CB4FF38}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1. Food finder", "1. Food finder\1. Food finder.csproj", "{3EFA2B79-A10E-47F1-BAF5-F0946CB4FF38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Pawn Wars", "2. Pawn Wars\2. Pawn Wars.csproj", "{841DF8AC-5434-443C-A39D-CE5BDCC38AE2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{3EFA2B79-A10E-47F1-BAF5-F0946CB4FF38}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3EFA2B79-A10E-47F1-BAF5-F0946CB4FF38}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3EFA2B79-A10E-47F1-BAF5-F0946CB4FF38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{841DF8AC-5434-443C-A39D-CE5BDCC38AE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{841DF8AC-5434-443C-A39D-CE5BDCC38AE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{841DF8AC-5434-443C-A39D-CE5BDCC38AE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{841DF8AC-5434-443C-A39D-CE5BDCC38AE2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

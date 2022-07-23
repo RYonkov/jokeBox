@@ -1,10 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Zoo
+﻿namespace Zoo
 {
-    public class Lizard : Reptiles
+    public class Lizard : Reptile
     {
         public Lizard(string name) : base(name)
         {

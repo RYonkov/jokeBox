@@ -6,7 +6,6 @@ namespace Zoo
     {
         static void Main()
         {
-            
         }
     }
 }

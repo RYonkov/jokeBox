@@ -1,0 +1,28 @@
+C:\Users\rados\OneDrive\Desktop\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.exe
+C:\Users\rados\OneDrive\Desktop\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.deps.json
+C:\Users\rados\OneDrive\Desktop\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.runtimeconfig.json
+C:\Users\rados\OneDrive\Desktop\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.runtimeconfig.dev.json
+C:\Users\rados\OneDrive\Desktop\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.dll
+C:\Users\rados\OneDrive\Desktop\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.pdb
+C:\Users\rados\OneDrive\Desktop\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.csproj.AssemblyReference.cache
+C:\Users\rados\OneDrive\Desktop\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rados\OneDrive\Desktop\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.AssemblyInfoInputs.cache
+C:\Users\rados\OneDrive\Desktop\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.AssemblyInfo.cs
+C:\Users\rados\OneDrive\Desktop\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.csproj.CoreCompileInputs.cache
+C:\Users\rados\OneDrive\Desktop\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.dll
+C:\Users\rados\OneDrive\Desktop\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.pdb
+C:\Users\rados\OneDrive\Desktop\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.genruntimeconfig.cache
+C:\Users\rados\OneDrive\Documents\GitHub\jokeBox\SoftUni - C# OOP\9. Unit Testing\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.exe
+C:\Users\rados\OneDrive\Documents\GitHub\jokeBox\SoftUni - C# OOP\9. Unit Testing\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.deps.json
+C:\Users\rados\OneDrive\Documents\GitHub\jokeBox\SoftUni - C# OOP\9. Unit Testing\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.runtimeconfig.json
+C:\Users\rados\OneDrive\Documents\GitHub\jokeBox\SoftUni - C# OOP\9. Unit Testing\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.runtimeconfig.dev.json
+C:\Users\rados\OneDrive\Documents\GitHub\jokeBox\SoftUni - C# OOP\9. Unit Testing\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.dll
+C:\Users\rados\OneDrive\Documents\GitHub\jokeBox\SoftUni - C# OOP\9. Unit Testing\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.pdb
+C:\Users\rados\OneDrive\Documents\GitHub\jokeBox\SoftUni - C# OOP\9. Unit Testing\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.csproj.AssemblyReference.cache
+C:\Users\rados\OneDrive\Documents\GitHub\jokeBox\SoftUni - C# OOP\9. Unit Testing\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rados\OneDrive\Documents\GitHub\jokeBox\SoftUni - C# OOP\9. Unit Testing\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.AssemblyInfoInputs.cache
+C:\Users\rados\OneDrive\Documents\GitHub\jokeBox\SoftUni - C# OOP\9. Unit Testing\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.AssemblyInfo.cs
+C:\Users\rados\OneDrive\Documents\GitHub\jokeBox\SoftUni - C# OOP\9. Unit Testing\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.csproj.CoreCompileInputs.cache
+C:\Users\rados\OneDrive\Documents\GitHub\jokeBox\SoftUni - C# OOP\9. Unit Testing\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.dll
+C:\Users\rados\OneDrive\Documents\GitHub\jokeBox\SoftUni - C# OOP\9. Unit Testing\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.pdb
+C:\Users\rados\OneDrive\Documents\GitHub\jokeBox\SoftUni - C# OOP\9. Unit Testing\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.genruntimeconfig.cache

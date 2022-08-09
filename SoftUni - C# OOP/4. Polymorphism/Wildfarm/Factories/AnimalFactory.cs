@@ -40,9 +40,9 @@ namespace WildFarm.Factories
                     }
                 case "Tiger":
                     {
-                        string livingRegion = data[3];
+                        string habitat = data[3];
                         string breed = data[4];
-                        return new Tiger(name, weight, livingRegion, breed);
+                        return new Tiger(name, weight, habitat, breed);
                     }
                 default:
                     return null;
